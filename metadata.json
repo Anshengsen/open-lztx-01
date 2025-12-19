@@ -1,0 +1,7 @@
+{
+  "name": "Project XmasMotion",
+  "description": "An immersive Christmas-themed interactive experience using computer vision to control particles with hand gestures. Built with React, Tailwind CSS, and MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
